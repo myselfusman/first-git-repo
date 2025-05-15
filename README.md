@@ -1,2 +1,2 @@
 # first-git-repo
-This is my first Git repo fir practice only.
+This is my first Git repo for practice only.
