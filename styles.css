@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.form {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 45%;
+  text-align: center;
+}
+
+.form h2 {
+  margin-bottom: 10px;
+}
+
+.form input {
+  display: block;
+  width: 80%;
+  margin: 10px auto;
+  padding: 5px;
+}
+
+.form button {
+  width: 80%;
+  padding: 10px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: #333;
+}
