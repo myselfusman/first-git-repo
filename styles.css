@@ -8,7 +8,8 @@ body {
 
 /* Container and Layout */
 .container {
-  display: flex;
+  display: flex;clear
+
   flex-direction: column;
   gap: 40px;
   padding: 40px;
@@ -70,7 +71,7 @@ body {
   border-radius: 8px;
   cursor: pointer;
   font-weight: bold;
-  transition: background 0.3s ease;
+  transition: background 0.5s ease;
   margin-top: 10px;
 }
 
